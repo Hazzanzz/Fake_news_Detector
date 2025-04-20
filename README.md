@@ -28,7 +28,8 @@ An AI-powered web app that detects fake news from any online article and extract
 
 ## 🖼️ Demo Screenshot
 
-![Fake News Detector UI](https://cdn.corenexis.com/view/?img=mm/ap20/Kx52yv.png). 
+(![Screenshot 2025-04-19 212429](https://github.com/user-attachments/assets/f90d0ffe-3a15-4692-8993-4689d15cdad8)
+
 
 ---
 
